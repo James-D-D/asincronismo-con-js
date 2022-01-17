@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo-con-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js ",
+    "callback:challenge": "node src/callback/chanllenge.js ",
+    "promise" : "node src/promise/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
